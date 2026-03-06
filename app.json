@@ -1,10 +1,17 @@
 {
   "expo": {
+    "name": "wk1",
+    "slug": "wk1",
     "scheme": "acme",
     "plugins": [
       "expo-router"
     ],
-    "name": "wk1",
-    "slug": "wk1"
+    "ios": {
+      "bundleIdentifier": "com.chiaying.wk1",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.chiaying.wk1"
+    }
   }
 }
