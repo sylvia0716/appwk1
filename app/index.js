@@ -4,7 +4,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>111319001 鍾佳穎</Text>
-      <Text>我開成功了！</Text>
+      <Text>我成功打開了！</Text>
     </View>
   );
 }
